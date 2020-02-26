@@ -10,5 +10,14 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 ## Deployed Link
 
+https://duquetteman.github.io/react-employee-directory/
+
+
+## Screenshot:
+
+![Image description](/example.png)
+
+
+
 
 
