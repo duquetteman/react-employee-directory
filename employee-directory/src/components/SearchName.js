@@ -12,7 +12,7 @@ const SearchName = () => {
           </div>
           <input
           className="form-control"
-          placeholder="Search by name here"
+          placeholder="Search Name"
           aria-label="Search"
           onChange={e => context.handleSearchChange(e)}
         />

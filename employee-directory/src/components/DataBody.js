@@ -16,7 +16,8 @@ const DataBody = () => {
                 <img
                   src={picture.large}
                   alt={"profile image for " + name.first + " " + name.last}
-                  className="img-responsive"
+                  className="img-responsive pic"
+                  
                 />
               </td>
               <td data-th="Name" className="name-cell align-middle">

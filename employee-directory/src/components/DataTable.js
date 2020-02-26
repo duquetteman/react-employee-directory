@@ -10,7 +10,7 @@ const DataTable = () => {
     <div className="datatable mt-5">
       <table
         id="table"
-        className="table  table-condensed"
+        className="table table-condensed"
       >
         <thead>
           <tr>
@@ -21,7 +21,6 @@ const DataTable = () => {
                   key={name}
                   style={{ width }}
                   onClick={() => {
-                    // context.handleSort(name.toLowerCase());
                     context.handleSort(name);
                   }}
                 >
