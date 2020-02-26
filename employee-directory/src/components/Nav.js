@@ -7,7 +7,7 @@ function Nav() {
      
       <div className=" navbar-collapse row" id="navbarNav">
       
-        <div className="search-area col-10">
+        <div className="search-area col-12">
           <SearchName />
         </div>
       </div>
