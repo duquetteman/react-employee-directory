@@ -19,7 +19,7 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 ## Screenshot:
 
-<img src="example.png" title="The team" alt="The team" width=600px>
+<img src="example.png" title="HomePage Screenshot" alt="homepage" width=600px>
 
 
 
