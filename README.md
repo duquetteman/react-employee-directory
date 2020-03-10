@@ -1,7 +1,7 @@
 # Employee Directory
 
 ## Problem
-Keepiong track of contact info is hard. When a supervisor needs to keep track of their employess, this app provides a way to do it. 
+Keeping track of contact info is hard. When a supervisor needs to keep track of their employess, this app provides a way to do it. 
 
 ## Organization
 This app is organized around the search bar at the top of the page. Users can search for a contact to quickly filter and find a specific person. 
